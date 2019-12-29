@@ -1,21 +1,21 @@
 {
-    "name": "material-the-dark-world",
-    "displayName": "Material: The Dark World",
-    "description": "VSCode Material-UI dark color theme because the world really needed another one.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Material: The Dark World",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Material The Dark World-color-theme.json"
-            }
-        ]
-    }
+  "name": "material-the-dark-world",
+  "displayName": "Material: The Dark World",
+  "description": "VSCode Material-UI dark color theme because the world really needed another one.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material: The Dark World",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material The Dark World-color-theme.json"
+      }
+    ]
+  }
 }
